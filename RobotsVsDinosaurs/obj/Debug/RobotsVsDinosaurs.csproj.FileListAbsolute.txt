@@ -1,0 +1,7 @@
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\RobotsVsDinosaurs.exe.config
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\RobotsVsDinosaurs.exe
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\RobotsVsDinosaurs.pdb
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\RobotsVsDinosaurs.csprojAssemblyReference.cache
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\RobotsVsDinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\RobotsVsDinosaurs.exe
+C:\Users\forde\OneDrive\Documents\DevCodeCampProjects\DCCRobotVsDinosaur\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\RobotsVsDinosaurs.pdb

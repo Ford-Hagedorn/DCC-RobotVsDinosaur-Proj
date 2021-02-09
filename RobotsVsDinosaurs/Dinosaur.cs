@@ -16,10 +16,10 @@ namespace RobotsVsDinosaurs
         public double atkPower;
         public string atkName;
 
-        public Dinosaur(string name, string type, double health, double energy, double atkPower, string atkName)
+        public Dinosaur(string name, string typeThatIsPassedIn, double health, double energy, double atkPower, string atkName)
         {
             this.name = name;
-            this.type = type;
+            type = typeThatIsPassedIn;
             this.health = health;
             this.energy = energy;
             this.atkPower = atkPower;
